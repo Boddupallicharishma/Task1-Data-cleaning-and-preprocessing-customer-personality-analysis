@@ -1,0 +1,6 @@
+customer-personality-cleaning/
+│
+├── README.md                              ← 📘 Project overview and steps
+├── marketing_campaign.csv                 ← Raw dataset (from Kaggle)
+├── cleaned_customer_personality.csv       ← ✅ Cleaned dataset
+├── customer_cleaning_script.py            ← ✅ Python script with all cleaning steps
